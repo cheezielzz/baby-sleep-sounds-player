@@ -1,6 +1,11 @@
 # baby-sleep-sounds-player
 A simple project that plays soothing audio tracks to help your little one relax, sleep, and feel secure.
 
+# How it works
+You can head on over to [https://baby-sleep-sounds-player.vercel.app
+](https://baby-sleep-sounds-player.vercel.app) to try it out. 
+
+
 # About
 Foundation built by v0 and later on refined further by me. I built this project as a testing ground to review the practicality and performance of using a v0 app for public applications + I wanted to try this out with my newborn nephew.
 
